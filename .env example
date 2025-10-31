@@ -1,0 +1,8 @@
+
+
+# L2 setting
+L2_IP='your L2 Switch IP'
+L2_USER_NAME='your L2 Switch user name'
+L2_USER_PWD='your L2 Switch user password'
+L2_ENABLE_PWD='your L2 Switch enable password'
+
